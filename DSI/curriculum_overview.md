@@ -1,4 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) DSI: Course Materials
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive: Course Materials
+
+> Note: These specific materials (from 2016) have since been deprecated and are being displayed only as an example of a curriculum sequence that I designed and delivered to our global markets.
 
 General Assembly provides our instructors with lesson plans, lab activities, resource guides, and instructions on how to run their course.  In this file, we'll describe the materials we provide and supplemental materials we recommend local instructional teams build on their own.
 
