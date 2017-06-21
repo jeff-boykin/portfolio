@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) iOSI: Course Format
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) iOSI: Course Format & Schedule
 
 The following document will help you understand how the course is structure. Included is an overview of the units, week to week schedule and the specific topics that are covered.
 
