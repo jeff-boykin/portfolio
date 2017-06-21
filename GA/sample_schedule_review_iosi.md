@@ -16,8 +16,8 @@ In order to make sure that students are best prepared for the first few weeks of
 Aside from those basic requirements:
 
 - Students should own their own computer (a recent Mac is preferred).
-- Students should own at least one iOS device for testing (but it is not required).
 - Students should complete prework and enroll in Apple's developer program.
+- Students should own at least one iOS device for testing (this is preferred but not required).
 
 **Please Note**
 - Students do **not** need to be existing developers in order to enroll in this program!
