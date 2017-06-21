@@ -1,6 +1,8 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Lessons
 
-> Globally, we have 3 Units in Data Science, each building on top of skills learned previously to scaffold students' learning over the entire course.
+> Note: These specific materials (from 2016) have since been deprecated and are being displayed only as an example of a curriculum sequence that I designed and delivered to our global markets.
+
+Globally, we have 3 Units in Data Science, each building on top of skills learned previously to scaffold students' learning over the entire course.
 
 Our lessons contain objectives, prerequisites, suggested datasets, starter and solution code, and other instructional resources, tying into the overall competencies for each unit. See below for a complete description of all the lesson planning material we provide.
 
