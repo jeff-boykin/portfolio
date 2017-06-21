@@ -50,7 +50,7 @@ Below is the detailed information about the week-to-week content
 
 
 <p align="center">
-  <img src="/resources/syllabus/iosi-high-level-syllabus.001.jpg">
+  <img src="/assets/iosi-high-level-syllabus.001.jpg">
 </p>
 
 
