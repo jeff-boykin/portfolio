@@ -24,7 +24,7 @@ Aside from those basic requirements:
 
 #### On-Boarding Task
 
-In order to make sure that students are best prepared for the first few weeks of class, we require that students complete the on-boarding task, which can be found [here](https://github.com/generalassembly-studio/iosi-precourse-onboarding). The on-boarding task covers the following topics:
+In order to make sure that students are best prepared for the first few weeks of class, we require that students complete the on-boarding task, [which can be found here](https://github.com/generalassembly-studio/iosi-precourse-onboarding). The on-boarding task covers the following topics:
 
 * Navigating via the command line
 * Git/GitHub
