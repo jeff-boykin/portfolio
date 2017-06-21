@@ -65,14 +65,14 @@ An example of a GA lab is pictured below:
 <img src="https://i.imgur.com/DsFbxzG.png">
 </p>
 
-###### Reflection
+##### Reflection
 
 |Materials | Description
 |----|---------|
 | __readme.md__| Found in the [Recurring Materials folder](../04-lessons/recurring-materials/reflection/), the Reflection readme contains instructions on how to facilitate reflection periods, including a description on how to create a reflection survey.  |
 
 
-###### Project "Show & Tell" Presentations
+##### Project "Show & Tell" Presentations
 
 |Materials | Description
 |----|---------|
