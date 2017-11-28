@@ -1,6 +1,6 @@
 # Sample Portfolio 
 
-Below are a few examples of work created in my capacity as a senior instructional designer and ID consultant. 
+Below are just a few examples of work created in my capacity as a lead instructional designer and consultant. 
 
 > Please note that the example curriculum materials shared here were created circa 2016 and have since been deprecated. These items are provided solely for portfolio context and are not representive of the current state of General Assembly intellectual property.
 
