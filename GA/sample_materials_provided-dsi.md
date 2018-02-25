@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive: Course Materials
 
-> Note: These specific materials (from 2016) have since been deprecated and are being displayed only as an example of a curriculum sequence that I designed and delivered to our global markets.
+> Note: These specific materials (from 2016) have since been deprecated and are being displayed only as an ***example*** of a curriculum sequence that I designed and delivered to our global markets.
 
 General Assembly provides our instructors with lesson plans, lab activities, resource guides, and instructions on how to run their course.  In this file, we'll describe the materials we provide and supplemental materials we recommend local instructional teams build on their own.
 
@@ -26,7 +26,7 @@ Guidance on how to run recurring class activities, like presentations and reflec
 Read more about what's included in our lesson and lab materials:
 
 
-##### In-Class Lesson Materials
+#### In-Class Lesson Materials
 
 As mentioned, each lesson exists in it's own folder.  We've provided the following for each lesson:
 
@@ -41,7 +41,6 @@ There is no such thing as a perfect lesson - be sure to put your own personal to
 
 **Note:** You may modify the materials but **please do not modify the learning objectives**.
 
-<!-- Add data here for data courses -->
 
 An example of one of our lesson plans is pictured below:
 
@@ -50,7 +49,7 @@ An example of one of our lesson plans is pictured below:
 </p>
 
 
-##### In-Class Lab Materials
+#### In-Class Lab/Activity Materials
 
 
 |Materials | Description
@@ -61,38 +60,36 @@ An example of one of our lesson plans is pictured below:
 | __Dataset__| This a dataset or sample subset provided for specific lab activities.|
 
 
-An example of a GA lab is pictured below:
+An example of a GA lab activity is pictured below:
 
 <p align="center">
 <img src="https://i.imgur.com/DsFbxzG.png">
 </p>
 
-##### Reflection
+#### Reflection
 
 |Materials | Description
 |----|---------|
 | __readme.md__| Found in the [Recurring Materials folder](../04-lessons/recurring-materials/reflection/), the Reflection readme contains instructions on how to facilitate reflection periods, including a description on how to create a reflection survey.  |
 
 
-##### Project "Show & Tell" Presentations
+#### Project "Show & Tell" Presentations
 
 |Materials | Description
 |----|---------|
 | __readme.md__| Found in the [Recurring Materials folder](../04-lessons/recurring-materials/project-show-and-tell/), the Presentation readme contains instructions on how to facilitate project presentations, including discussion questions and prompts for student presenters.  |
 
-## What Is *Not* Provided By GA?
+---
+
+### What Is *Not* Provided By GA?
 
 To be clear, **we do not provide materials for every hour of every class.** Our baseline curriculum is intended to make it easier for you to customize your course to your student's needs. We strongly encourage you to adapt what others have created and/or build your own supplemental materials for topics that are not already provided!  
 
 Here's a list of what is **NOT** provided in the baseline curriculum for DSI:
 
-- **Morning Exercises** - These can be assigned as homework or given during the first session of the day from 9-10am; they are structured similar to labs with a readme file that provides context and requirements; starter and solution code is optional; morning exercises have been gathered from local markets and various examples of morning exercises created by instructors can be found in the weekly instructor contributions folders
-- **Review Materials** - Each week, there is a given amount of time dedicated to review; use these to take a second pass at teaching a particular topic or even as a more structured lab to get students more practice with skills or concepts from the week.
 - **Flex / Instructor Choice** - Also, there are sessions marked as "Instructor Choice"; use these sessions to teach about topics you *love*, exciting new technologies or tools, or even as an additional review session, if needed.
 - **Project Workshops** - These are free-form sessions to provide students with ample time to code. 
 
-
-> Note: Many DSI instructors output lesson plans right to notebooks or use tools like `reveal.js` to display their markdown. See the [DSI Instructor Wiki](https://github.com/generalassembly-studio/dsi-course-materials/wiki/Slide-Decks-1:-Apache-Setup-for-Reveal.js) for an extended walkthrough.
 
 ---
 
