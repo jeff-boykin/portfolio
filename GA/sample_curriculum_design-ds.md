@@ -12,9 +12,9 @@ Our lessons contain objectives, pre-requisites, datasets, starter + solution cod
 > For a complete grading walkthrough, see our [feedback tutorial](../projects/project-feedback.md) for tips on debriefing student assignments.
 
 
-General Assembly's Data Science course is made up of 20 lessons that are 3 hours each, split into 3 units:
 
 ## Unit Breakdown
+General Assembly's Data Science course is made up of 20 lessons that are 3 hours each, split into 3 units:
 
 | Unit | Title | Lessons Provided | Flex Session |
 | --- | --- |  --- | --- |
