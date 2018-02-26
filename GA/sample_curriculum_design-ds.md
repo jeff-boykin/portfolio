@@ -8,8 +8,8 @@ Globally, there are 3 Units in our Part-Time Data Science course, each building 
 
 Our lessons contain objectives, pre-requisites, datasets, starter + solution code, slides, and other instructional resources; each of these tie into the overall competencies for each unit. See below for a complete description of all the materials we provide.
 
-> For a quick "getting started" guide, check out [our Instructor Checklist](../resources/instructor-resources/instructor-prep.md).
-> For a complete grading walkthrough, see our [feedback tutorial](../projects/project-feedback.md) for tips on debriefing student assignments.
+> - For a quick "getting started" guide, check out [our Instructor Checklist](../resources/instructor-resources/instructor-prep.md).
+> - For a complete grading walkthrough, see our [feedback tutorial](../projects/project-feedback.md) for tips on debriefing student assignments.
 
 
 
