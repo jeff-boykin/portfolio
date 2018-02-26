@@ -85,12 +85,12 @@ Lesson plans are organized as follows:
 4. **Instructor Prep**: Specific instructions for the instructor
 5. **Lesson Guide**: High level timing overview of lesson structure
 6. **Lesson Content**: Content is divided into modular, adjustable components by topic:
-  - _Opening_: Objectives, QA, Reminders
-  - _Topic - Introduction_: Slide deck supported lecture
-  - _Topic - Demo or Codealong_: Walkthrough
-  - _Topic - Guided Practice_: Short practice activity
-  - _Topic - Independent Practice_: Summative activity with deliverable(s)
-  - _Conclusion_: Lesson & Lab Review, QA, Exit Tickets
+    - _Opening_: Objectives, QA, Reminders
+    - _Topic - Introduction_: Slide deck supported lecture
+    - _Topic - Demo or Codealong_: Walkthrough
+    - _Topic - Guided Practice_: Short practice activity
+    - _Topic - Independent Practice_: Summative activity with deliverable(s)
+    - _Conclusion_: Lesson & Lab Review, QA, Exit Tickets
 7. **Upcoming Assignments**: Homework or Projects
 8. **Additional Resources**: Links that you should feel free to add to or supplement
 
