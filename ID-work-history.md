@@ -43,8 +43,8 @@
 
 1. State Street - Custom Part Time Data Science course: 40 hours
 2. AQR - Custom Part Time Data Science course: 35 hours
-3. Booze Allen Hamilton - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: hours vary
-4. Bloomberg - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: hours vary
+3. Booze Allen Hamilton - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
+4. Bloomberg - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
  
 
 ---
