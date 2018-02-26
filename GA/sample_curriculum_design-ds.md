@@ -1,15 +1,18 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Lessons
 
-> Note: These specific materials (from 2016) have since been deprecated and are being displayed only as an example of a curriculum sequence that I designed and delivered to our global markets.
+> Note: These specific materials (from 2016) have since been deprecated and are being displayed only as an **example** of a curriculum sequence that I designed and delivered to our global markets.
 
-Globally, we have 3 Units in Data Science, each building on top of skills learned previously to scaffold students' learning over the entire course.
+---
 
-Our lessons contain objectives, prerequisites, suggested datasets, starter and solution code, and other instructional resources, tying into the overall competencies for each unit. See below for a complete description of all the lesson planning material we provide.
+Globally, there are 3 Units in our Part-Time Data Science course, each building on top of previous skills to scaffold student learning over the entire course.
 
-> Instructors should review our [preparatory instructions](../resources/instructor-resources/instructor-prep.md) or read up on our [feedback guidelines](../projects/project-feedback.md) for debriefing student assignments.
+Our lessons contain objectives, pre-requisites, datasets, starter + solution code, slides, and other instructional resources; each of these tie into the overall competencies for each unit. See below for a complete description of all the materials we provide.
+
+> For a quick "getting started" guide, check out [our Instructor Checklist](../resources/instructor-resources/instructor-prep.md).
+> For a complete grading walkthrough, see our [feedback tutorial](../projects/project-feedback.md) for tips on debriefing student assignments.
 
 
-General Assembly's Data Science course is made up of 20 lessons that are 3 hours each. This course is split into 3 units.
+General Assembly's Data Science course is made up of 20 lessons that are 3 hours each, split into 3 units:
 
 ## Unit Breakdown
 
@@ -19,11 +22,11 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 | Unit 2 | Foundations of Modeling | Lessons 6 - 10 | Lesson 11 |
 | Unit 3 | Data Science in the Real World| Lessons 12 - 18 | Lesson 19 |
 
-> Note: Flex sessions are provided as buffers for holidays, content review, or additional topics that instructors may want to cover.
+> Note: Flex sessions are provided as buffers for holidays, review, or bonus topics that instructors may wish to cover.
 
 ---
 
-# Lesson Breakdown
+## Lesson Breakdown
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
@@ -40,7 +43,7 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 
 ---
 
-## Available Materials
+## Materials Provided
 
 For every lesson, we've supplied a folder full of materials, including the following:
 
@@ -53,8 +56,10 @@ For every lesson, we've supplied a folder full of materials, including the follo
 
 > Instructor's Note: You should share Starter code and Datasets in the student-facing repo and direct students to the relevant file during your lessons. Feel free to share the solution code with them afterward.
 
-### Folder Navigation
-Each lesson folder is organized in the following pattern:
+---
+
+## Folder Structure
+Each lesson is organized in the following pattern:
 
 - **Lesson**: includes the root lesson readme
   - _Code_
@@ -66,9 +71,11 @@ Each lesson folder is organized in the following pattern:
     - **Slides**: Links to the baseline lesson deck for you to copy and modify
 
 
-> Note: Google Slide Decks for each lesson are linked in the "slides" folder for each lesson. To open, click the link then duplicate and rename the deck. You're encouraged to make edits and add material!
+> Note: Google Slide Decks for each lesson are linked in the "slides" folder for each lesson. To open, click the link then duplicate and rename the deck. You're encouraged to make edits or add your own materials as desired.
 
-## Lesson Structure
+---
+
+## Lesson Plans
 
 Lesson plans are organized as follows:
 
