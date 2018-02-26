@@ -62,7 +62,7 @@
 
 3. North Carolina State Industrial Extension Office
  - **Scope of Work**: Needs Analysis, Stakeholder Interviews & Management, Content Design & Development (Course Conversion)
- - **Work Product:** Blended (Asynchronous, Self-Paced, Online + Instructor-Led Check-ins): Lean Six Sigma Business Training: Yellow, Green, Black Belt learning paths (80 hours of content)
+ - **Work Product:** Blended (Asynchronous, Self-Paced, Online + Instructor-Led Check-ins): Lean Six Sigma Business Training: Yellow, Green, Black Belt learning paths (~40 hours of content)
 
 4. University of North Carolina, Wilmington
  - **Scope of Work**: Stakeholder Interviews & Management, Content Design & Development
