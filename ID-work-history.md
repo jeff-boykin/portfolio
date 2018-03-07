@@ -52,27 +52,27 @@
 <a id="freelance"></a>
 # Work Product List, Freelance (2013-2016)
 
-1. Battelle For Kids, Nonprofit Foundation
+### 1. Battelle For Kids, Nonprofit Foundation
  - **Scope of Work**: Needs Analysis, User Testing, Content Design & Development, Assessment Design
  - **Work Product:** Asynchronous, Self-Paced, Online: Digital Marketing Essentials, Levels 1-3 (30 hours of content)
 
-2. University of Washington
+### 2. University of Washington
  - **Scope of Work**: Course Design & Development (Course Conversion), Stakeholder Interviews & Management, Assessment Design, Train the Trainer
  - **Work Product:** Blended (Asynchronous, Self-Paced, Online + Instructor-Led Check-ins): Family Counseling Fundamentals (25 hours of content)
 
-3. North Carolina State Industrial Extension Office
+### 3. North Carolina State Industrial Extension Office
  - **Scope of Work**: Needs Analysis, Stakeholder Interviews & Management, Content Design & Development (Course Conversion)
  - **Work Product:** Blended (Asynchronous, Self-Paced, Online + Instructor-Led Check-ins): Lean Six Sigma Business Training: Yellow, Green, Black Belt learning paths (~40 hours of content)
 
-4. University of North Carolina, Wilmington
+### 4. University of North Carolina, Wilmington
  - **Scope of Work**: Stakeholder Interviews & Management, Content Design & Development
  - **Work Product:** Asynchronous Modules & Job Aids, Front-End (User Signup) & Back-End (Database Migration & Maintenance) learning paths (20 hours of content) 
 
-5. Verizon Wireless
+### 5. Verizon Wireless
  - **Scope of Work**: Needs Analysis + Root Cause Analysis, Process Improvement
  - **Work Product:** Job Aids: Southeast (U.S.) Consumer Help Desk Sales Training & Management Program
 
-6. Salty Dog Yoga Studio
+### 6. Salty Dog Yoga Studio
  - **Scope of Work**: Needs Analysis + Root Cause Analysis, Process Improvement
  - **Work Product:** Organizational Hierarchy & Role Redesign, Teacher Development & Intern Programs
 
