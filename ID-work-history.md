@@ -41,10 +41,10 @@
 ## GA Enterprise
  - **Scope of Work**: Needs Analysis, Program Design & Development, Stakeholder Interviews & Management, Program Implementation & Evaluation, Train the Trainer, Assessment Design
 
-1. State Street - Custom Part Time Data Science course: 40 hours
-2. AQR - Custom Part Time Data Science course: 35 hours
-3. Booze Allen Hamilton - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
-4. Bloomberg - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
+1. Financial Client 1 - Custom Part Time Data Science course: 40 hours
+2. Financial Client 2 - Custom Part Time Data Science course: 35 hours
+3. Management Consulting Client 1 - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
+4. Management Consulting Client 2 - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
  
 
 ---
