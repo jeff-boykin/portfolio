@@ -1,8 +1,8 @@
 # Sample Portfolio 
 
-Below are just a few examples of work created in my capacity as a lead instructional designer and consultant. 
+A small example of various work products created as a lead instructional designer and learning architect. 
 
-> Please note that the example curriculum materials shared here have since been deprecated. These items are provided solely for portfolio context and are **not** representive of the current state of General Assembly intellectual property.
+> Please note that the example curriculum materials shared here have since been deprecated. These items are provided solely for portfolio context and are **NOT** representive of the current state of General Assembly intellectual property.
 
 ## General Assembly
 
