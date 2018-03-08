@@ -2,9 +2,9 @@
 
 A small example of various work products created as a lead instructional designer and learning architect. 
 
-> Please note that the example curriculum materials shared here have since been deprecated. These items are provided solely for portfolio context and are **NOT** representive of the current state of General Assembly intellectual property.
 
 ## General Assembly
+> Please note that the example curriculum materials shared here have since been deprecated. These items are provided solely for portfolio context and are **NOT** representive of the current state of General Assembly intellectual property.
 
 1. [Sample Curriculum Scope & Sequence](./GA/sample_curriculum_design-ds.md)
 1. [Sample Project Requirements & Rubric](https://gist.github.com/jeff-boykin/2036653aa2b1a020ceb089683d8ed35c)
