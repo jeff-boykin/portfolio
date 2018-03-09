@@ -1,6 +1,6 @@
 # Sample Portfolio 
 
-A small example of various work products created as a lead instructional designer and learning architect. 
+A small example of various work products created as a lead instructional designer and corporate learning architect. 
 
 
 ## General Assembly
