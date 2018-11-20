@@ -9,42 +9,62 @@
 <a id="GA"></a>
 # Work Product List, General Assembly (2015-2018)
 
+
+## GA Enterprise
+ - **Scope of Work**: Needs Analysis, Program Design & Development, Stakeholder Interviews & Management, Program Implementation & Evaluation, Train the Trainer, Assessment Design
+
+1. **State Street** - Custom Part Time Data Science course with specific data emphasis built around case studies: *40 hours of content developed*
+2. **AQR** - Custom Part Time Data Science course with custom assessments: *35 hours of content developed*
+3. **MiSK Foundation** - Program development, combining individual learning paths with assessments and student placement within 2 custom case study-centered courses: *40+ hours of content developed*
+4. **Booz Allen Hamilton** - Program development, combining individual learning paths with assessments and student placement within 3 custom case study-centered courses: *60+ hours of content developed*
+5. **Guardian Insurance** - Custom 24-week Data Science with focused topic areas and case study enhancements *200+ hours of content developed*
+6. **Vodaphone** - Custom Data analytics and product management program with case studies, *30 hours of content developed*
+7. **Bloomberg** - Custom Part Time Data Analytics and Programming course with custom client software module, *40 hours of content developed*
+
+---
+
 ## GA Consumer
  - **Scope of Work**: Content Design & Development, Subject Matter Expert Recruitment, Course Implementation & Evaluation, Project Management & Process Improvement, Content Management & Maintenance, Stakeholder Management, Train the Trainer
 
 ### Synchronous, Instructor-Led, Onsite
-1. Javascript Development (Part Time Course): 40 hours of content
-2. Data Science Fundamentals (Part Time Course): 60 hours of content
-3. iOS Development Immersive (Full Time Course): 280 hours of content
-4. Android Development Immersive (Full Time Course): 240 hours of content
-5. Data Analytics (Part Time Course): 40 hours of content
-6. Data Science Immersive (Full Time Course): 360+ hours of content
+
+> Role: Needs Analysis, Curriculum Developer, Train-the-Trainer, Program Evaluation
+
+1. Javascript Development (Part Time Course): *40 hours of content developed*
+2. Data Science Fundamentals (Part Time Course): *60 hours of content developed*
+3. iOS Development Immersive (Full Time Course): *280 hours of content developed*
+4. Android Development Immersive (Full Time Course): *240 hours of content developed*
+5. Data Analytics (Part Time Course): *40 hours of content developed*
+6. Data Science Immersive (Full Time Course): *300+ hours of content developed*
+7. Python Programming (Part-Time Course): *40 hours of content developed*
 
 ### Synchronous, Instructor-Led, Hybrid (Online + Onsite)
-1. Data Science Immersive (Full Time Course): 100+ hours of content
+
+> Role: Needs Analysis, Program Manager, Train-the-Trainer
+
+1. Data Science Immersive (Full Time Course): *200+ hours of content developed*
 
 ### Asynchronous, Self-Paced, Online
-1. Data Analytics Fundamentals in Excel: 20 hours of content
-2. Data Analytics Fundamentals in SQL: 20 hours of content
-3. Data Science Fundamentals, Python Programming: 20 hours of content
-4. Data Science Fundamentals, Statistics: 20 hours of content
+
+> Role: Content Designer and Developer, Copywriter/editor, Assessment Designer
+
+1. Data Analytics Fundamentals in Excel: *20 hours of content developed*
+2. Data Analytics Fundamentals in SQL: *20 hours of content developed*
+3. Data Science Fundamentals, Python Programming: *20 hours of content developed*
+4. Data Science Fundamentals, Statistics: *20 hours of content developed*
 
 ### Product Releases:
+
+> Role: Technical Recruiter, Project Manager, Curriculum Developer
+
  - Data Analytics, Part Time: 2 official releases, 4 minor patches
  - Data Science, Part Time: 3 official releases, 7 minor patches
  - Data Science Immersive: 4 official releases, 6 minor patches
  - iOS Development Immersive: 1 official release, 3 minor patches
  - Android Development Immersive: 1 official release, 2 minor patches
+ - Python Programming: 1 official release, 3 minor patch releases
 
----
 
-## GA Enterprise
- - **Scope of Work**: Needs Analysis, Program Design & Development, Stakeholder Interviews & Management, Program Implementation & Evaluation, Train the Trainer, Assessment Design
-
-1. Financial Client 1 - Custom Part Time Data Science course: 40 hours
-2. Financial Client 2 - Custom Part Time Data Science course: 35 hours
-3. Management Consulting Client 1 - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
-4. Management Consulting Client 2 - Custom Program, Individual Learning Paths with Assessments with custom content from Data Analytics, Data Fundamentals (Online), Part Time Data Science: *hours vary*
  
 
 ---
