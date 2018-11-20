@@ -11,7 +11,8 @@
 
 
 ## GA Enterprise
- - **Scope of Work**: Needs Analysis, Program Design & Development, Stakeholder Interviews & Management, Program Implementation & Evaluation, Train the Trainer, Assessment Design
+
+> **Scope of Work**: Needs Analysis, Program Design & Development, Stakeholder Interviews & Management, Program Implementation & Evaluation, Train the Trainer, Assessment Design
 
 1. **State Street** - Custom Part Time Data Science course with specific data emphasis built around case studies: *40 hours of content developed*
 2. **AQR** - Custom Part Time Data Science course with custom assessments: *35 hours of content developed*
@@ -24,7 +25,9 @@
 ---
 
 ## GA Consumer
- - **Scope of Work**: Content Design & Development, Subject Matter Expert Recruitment, Course Implementation & Evaluation, Project Management & Process Improvement, Content Management & Maintenance, Stakeholder Management, Train the Trainer
+
+> **Scope of Work**: Content Design & Development, Subject Matter Expert Recruitment, Course Implementation & Evaluation, Project Management & Process Improvement, Content Management & Maintenance, Stakeholder Management, Train the Trainer
+
 
 ### Synchronous, Instructor-Led, Onsite
 
